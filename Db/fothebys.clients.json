@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "680d3dc71393db63f9440980"
+  },
+  "fullName": "Rijon Adhikari",
+  "email": "rijonadhikari2@gmail.com",
+  "phone": "9866313430",
+  "address": "DakshinDhoka,ktm,Nepallll",
+  "type": "buyer",
+  "createdAt": {
+    "$date": "2025-04-26T20:10:47.180Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-11T07:08:59.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680d4b30e8bb91af4751cfed"
+  },
+  "userId": {
+    "$oid": "680d4b30e8bb91af4751cfeb"
+  },
+  "fullName": "Dhiraj Adhikari",
+  "email": "dhiraj12@gmail.com",
+  "type": "seller",
+  "createdAt": {
+    "$date": "2025-04-26T21:08:00.454Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-26T21:08:00.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680ecc8c22f618cb079ed0b6"
+  },
+  "userId": {
+    "$oid": "680ecc8c22f618cb079ed0b4"
+  },
+  "fullName": "Example ",
+  "email": "example12@gmail.com",
+  "type": "seller",
+  "createdAt": {
+    "$date": "2025-04-28T00:32:12.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-28T00:32:12.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68140920c28b8350211fdcca"
+  },
+  "userId": {
+    "$oid": "68140920c28b8350211fdcc8"
+  },
+  "fullName": "Bruno ",
+  "email": "bruno@gmail.com",
+  "type": "buyer",
+  "createdAt": {
+    "$date": "2025-05-01T23:52:00.974Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-01T23:52:00.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681572970640fb8980232e95"
+  },
+  "userId": {
+    "$oid": "681572970640fb8980232e93"
+  },
+  "fullName": "Zod",
+  "email": "zod@gmail.com",
+  "type": "seller",
+  "createdAt": {
+    "$date": "2025-05-03T01:34:15.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T01:34:15.138Z"
+  },
+  "__v": 0
+}]

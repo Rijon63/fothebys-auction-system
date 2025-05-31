@@ -1,0 +1,59 @@
+/* Edit Auction Form Styling */
+.edit-auction-wrapper {
+    max-width: 600px;
+    margin: 60px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    background: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .edit-auction-wrapper h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .edit-auction-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .edit-auction-form input,
+  .edit-auction-form textarea {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  .edit-auction-form textarea {
+    resize: vertical;
+    min-height: 100px;
+  }
+  
+  .edit-auction-form input[type="file"] {
+    border: none;
+  }
+  
+  .edit-auction-form .form-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #333;
+    color: white;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .edit-auction-form .form-button:hover {
+    background-color: #555;
+  }
+  

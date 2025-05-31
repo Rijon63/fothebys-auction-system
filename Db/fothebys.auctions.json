@@ -1,0 +1,242 @@
+[{
+  "_id": {
+    "$oid": "680be8511e086241c4ba2034"
+  },
+  "title": "Tree",
+  "description": "The classy oneee",
+  "startDate": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-04-30T00:00:00.000Z"
+  },
+  "image": "1745610833554.jpeg",
+  "createdAt": {
+    "$date": "2025-04-25T19:53:53.557Z"
+  },
+  "__v": 0,
+  "category": "Paintings"
+},
+{
+  "_id": {
+    "$oid": "680bfa98266a21d7881c1e0f"
+  },
+  "title": "Framed",
+  "description": "painting",
+  "startDate": {
+    "$date": "2025-04-26T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-04-30T00:00:00.000Z"
+  },
+  "image": "1745615512038.jpg",
+  "createdAt": {
+    "$date": "2025-04-25T21:11:52.045Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680c123b8ac6817ce2c8a8d1"
+  },
+  "title": "potrait",
+  "description": "ssssssssssssssss",
+  "startDate": {
+    "$date": "2025-04-29T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-04-30T00:00:00.000Z"
+  },
+  "image": "1745621563957.webp",
+  "createdAt": {
+    "$date": "2025-04-25T22:52:43.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681576f33170cdad2caf7414"
+  },
+  "title": "Girlyyyyyyy",
+  "description": "W Girl",
+  "startDate": {
+    "$date": "2025-05-03T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-04T00:00:00.000Z"
+  },
+  "image": "1746237171357.jpeg",
+  "salePrice": null,
+  "buyerId": null,
+  "createdAt": {
+    "$date": "2025-05-03T01:52:51.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68158aef098ee82fbfa09dfb"
+  },
+  "title": "Painting",
+  "description": "paintingsssssssss",
+  "startDate": {
+    "$date": "2025-05-04T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "image": "1746242287684.jpg",
+  "salePrice": null,
+  "buyerId": null,
+  "creatorId": {
+    "$oid": "680ab536bb07561e32587167"
+  },
+  "createdAt": {
+    "$date": "2025-05-03T03:18:07.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68178706bc1ae0a4e3acb9dd"
+  },
+  "title": "Sublime",
+  "description": "Sublimeeeeeeeeeeeeee",
+  "startDate": {
+    "$date": "2025-05-04T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "image": "1746372358324.jpg",
+  "salePrice": null,
+  "buyerId": null,
+  "creatorId": {
+    "$oid": "680ab57bbb07561e3258716a"
+  },
+  "createdAt": {
+    "$date": "2025-05-04T15:25:58.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817beda612cba40c38bb833"
+  },
+  "title": "Scenaryyyyyyyyyyy",
+  "description": "Sceneeeeeeeeeeee",
+  "startDate": {
+    "$date": "2025-05-05T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-06T00:00:00.000Z"
+  },
+  "biddingEndTime": {
+    "$date": "2025-05-06T13:00:00.000Z"
+  },
+  "image": "1746386650728.jpg",
+  "salePrice": 123,
+  "highestBid": null,
+  "winnerId": null,
+  "buyerId": {
+    "$oid": "68140920c28b8350211fdcca"
+  },
+  "creatorId": {
+    "$oid": "680ab536bb07561e32587167"
+  },
+  "createdAt": {
+    "$date": "2025-05-04T19:24:10.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681bb42c13ad2d91c26c8458"
+  },
+  "title": "Carved Peacock",
+  "description": "Carved Peacock Carved Peacock Carved Peacock",
+  "startDate": {
+    "$date": "2025-05-08T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-09T00:00:00.000Z"
+  },
+  "biddingEndTime": {
+    "$date": "2025-05-08T08:28:00.000Z"
+  },
+  "image": "1746646060965.jpg",
+  "salePrice": null,
+  "highestBid": null,
+  "winnerId": null,
+  "buyerId": null,
+  "creatorId": {
+    "$oid": "680ab536bb07561e32587167"
+  },
+  "category": "Carvings",
+  "createdAt": {
+    "$date": "2025-05-07T19:27:40.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681bb9ac2845e18390237eeb"
+  },
+  "title": "sculptures",
+  "description": "sculptures sculptures ",
+  "startDate": {
+    "$date": "2025-05-10T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-11T00:00:00.000Z"
+  },
+  "biddingEndTime": {
+    "$date": "2025-05-11T19:50:00.000Z"
+  },
+  "image": "1746647468864.jpg",
+  "salePrice": 100,
+  "highestBid": null,
+  "winnerId": null,
+  "buyerId": {
+    "$oid": "68140920c28b8350211fdcca"
+  },
+  "creatorId": {
+    "$oid": "680ab536bb07561e32587167"
+  },
+  "category": "Sculptures",
+  "createdAt": {
+    "$date": "2025-05-07T19:51:08.885Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f7c2da564f433b75cf63f"
+  },
+  "title": "Paintings",
+  "description": "Paintings",
+  "startDate": {
+    "$date": "2025-05-11T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-05-12T00:00:00.000Z"
+  },
+  "biddingEndTime": {
+    "$date": "2025-05-12T16:17:00.000Z"
+  },
+  "image": "1746893869800.jpg",
+  "salePrice": 100,
+  "highestBid": null,
+  "winnerId": null,
+  "buyerId": {
+    "$oid": "68140920c28b8350211fdcca"
+  },
+  "creatorId": {
+    "$oid": "680ab536bb07561e32587167"
+  },
+  "category": "Paintings",
+  "createdAt": {
+    "$date": "2025-05-10T16:17:49.848Z"
+  },
+  "__v": 0
+}]

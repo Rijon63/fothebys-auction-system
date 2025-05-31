@@ -1,0 +1,107 @@
+.clients-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.clients-container h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.error-message {
+  color: #d32f2f;
+  background-color: #ffebee;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.clients-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.client-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.client-card:hover {
+  transform: translateY(-5px);
+}
+
+.client-card p {
+  margin: 10px 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+.client-card p strong {
+  color: #333;
+}
+
+.client-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.edit-btn,
+.delete-btn,
+.back-btn {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.2s;
+}
+
+.edit-btn {
+  background-color: #1976d2;
+  color: #fff;
+}
+
+.edit-btn:hover {
+  background-color: #1565c0;
+}
+
+.delete-btn {
+  background-color: #d32f2f;
+  color: #fff;
+}
+
+.delete-btn:hover {
+  background-color: #b71c1c;
+}
+
+.back-btn {
+  display: block;
+  margin: 20px auto;
+  background-color: #388e3c;
+  color: #fff;
+}
+
+.back-btn:hover {
+  background-color: #2e7d32;
+}
+
+@media (max-width: 600px) {
+  .clients-list {
+    grid-template-columns: 1fr;
+  }
+
+  .client-card {
+    padding: 15px;
+  }
+}

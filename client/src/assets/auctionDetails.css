@@ -1,0 +1,236 @@
+.auction-details {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .back-btn {
+    margin-bottom: 1.5rem;
+  }
+  
+  .auction-card {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 700px;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+  
+  .auction-image-wrapper {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 0.75rem 0.75rem 0 0;
+  }
+  
+  .auction-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    display: block;
+  }
+  
+  .auction-content {
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .meta-title {
+    font-size: 2rem;
+    margin: 0.5rem 0;
+  }
+  
+  .meta-description {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    color: #555;
+  }
+  
+  .meta-dates {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    font-size: 1rem;
+  }
+  
+  .section-title {
+    text-align: center;
+    margin: 2rem 0 1rem;
+    font-size: 1.8rem;
+  }
+  
+  .lots-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    width: 100%;
+    max-width: 1000px;
+    margin-bottom: 2rem;
+  }
+  
+  .lot-card {
+    background-color: #fff;
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .lot-image {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 0.75rem;
+  }
+  
+  .lot-body {
+    font-size: 1rem;
+    color: #333;
+    width: 100%;
+    padding: 0.5rem 0;
+  }
+  
+  .lot-body p {
+    margin: 0.3rem 0;
+  }
+  
+  .lot-footer {
+    margin-top: 1rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f9fa;
+    padding: 0.5rem 1rem;
+    border-radius: 0.75rem;
+  }
+  
+  .lot-price {
+    color: #28a745;
+    font-weight: bold;
+  }
+  
+  .edit-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.4rem 0.9rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .edit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .no-lots {
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    color: #777;
+  }
+
+  .auction-details {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  .btn {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .back-btn {
+    background-color: #6b7280;
+    color: white;
+    margin-bottom: 20px;
+  }
+  .auction-card {
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 40px;
+  }
+  .auction-image-wrapper {
+    flex: 1;
+    background: #f9f9f9;
+  }
+  .auction-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .auction-content {
+    flex: 1;
+    padding: 20px;
+  }
+  .meta-title {
+    font-size: 2rem;
+    margin: 0 0 10px;
+  }
+  .meta-description {
+    margin: 0 0 20px;
+    color: #4b5563;
+  }
+  .meta-dates {
+    display: flex;
+    gap: 20px;
+  }
+  .meta-dates .label {
+    font-weight: bold;
+  }
+  .section-title {
+    font-size: 1.5rem;
+    margin: 20px 0;
+  }
+  .lots-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  .lot-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  .lot-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+  .lot-body {
+    padding: 15px;
+    flex: 1;
+  }
+  .lot-footer {
+    padding: 10px 15px;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .lot-price {
+    font-weight: bold;
+  }
+  .edit-btn {
+    background-color: #2563eb;
+    color: white;
+  }
+  .loading, .no-lots, .error-message {
+    text-align: center;
+    padding: 20px;
+    color: #4b5563;
+  }
+  .error-message {
+    color: red;
+    font-weight: bold;
+  }

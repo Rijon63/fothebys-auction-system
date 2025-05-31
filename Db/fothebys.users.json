@@ -1,0 +1,122 @@
+[{
+  "_id": {
+    "$oid": "680ab536bb07561e32587167"
+  },
+  "fullName": "Rijon",
+  "email": "rijonadhikari2@gmail.com",
+  "password": "$2b$10$9DYn.g3e2mdQotzRmJklHOWHF/mhH89Q1nVCawnnO7TL6f3njsVoG",
+  "role": "seller",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680ab57bbb07561e3258716a"
+  },
+  "fullName": "Admin",
+  "email": "admin@123gmail.com",
+  "password": "$2b$10$8gBfRoL1P28uJxA8EbwGJOEAqzkl0R4EOGXIhoZ8UlvoRI7EBU86i",
+  "role": "admin",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680d4756e8bb91af4751cf7e"
+  },
+  "fullName": "Ritesh",
+  "email": "ritesh12@gmail.com",
+  "password": "$2b$10$HXsQdtnYZHWPbmzWFXYgjOsUzseYQhbCNaz7tPZkvdgSUQVEYu5Pu",
+  "role": "seller",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680d4b30e8bb91af4751cfeb"
+  },
+  "fullName": "Dhiraj Adhikari",
+  "email": "dhiraj12@gmail.com",
+  "password": "$2b$10$Ao2lRcZAZLTuDo6gxg2B8OCQDq8LIYTI6YaLwNTtn5y0SaxnvbNQ.",
+  "role": "seller",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680ecc8c22f618cb079ed0b4"
+  },
+  "fullName": "Example ",
+  "email": "example12@gmail.com",
+  "password": "$2b$10$QSLWoQC/OWQQzhNCnzqe8usVmFZnUDcYKY5GlWaZBml3hmrYhjDPW",
+  "role": "seller",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68140920c28b8350211fdcc8"
+  },
+  "fullName": "Bruno ",
+  "email": "bruno@gmail.com",
+  "password": "$2b$10$FOaCxL8AwKMa.YM8iAyaveScSj.NqvIMgEDTFl2aSUhYxInFkPlr6",
+  "role": "buyer",
+  "__v": 0,
+  "clientId": "c06a8fef-1dbe-4d41-b3fb-acedd35ffcf7"
+},
+{
+  "_id": {
+    "$oid": "681572970640fb8980232e93"
+  },
+  "fullName": "Zod",
+  "email": "zod@gmail.com",
+  "password": "$2b$10$t1TuJzkzVLp1mSR1hTvU3u6P9U7lEVcA2ce93ABxsSz7PJDiixZi.",
+  "role": "seller",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817cf2eebc556d8dbc3a8ed"
+  },
+  "username": "Ran",
+  "email": "ram12@gmail.com",
+  "password": "$2b$10$zcynLaQr2S0pGiYOWFz4HeVAZngTaTmrTiYJaQTtnGYOfK4MkKZCS",
+  "role": "buyer",
+  "clientId": "978bec3a-2ee4-4fc3-ac44-1090e2d6fcdc",
+  "createdAt": {
+    "$date": "2025-05-04T20:33:50.264Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T20:33:50.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f833d7775bb6afc5e279d"
+  },
+  "username": "SS",
+  "email": "ss@gmail.com",
+  "password": "$2b$10$Ay7Xzfqj4r3LUSYM4yPnT.xKWcVgav0KAc56nv3YnBOksPKuOj.Ba",
+  "role": "seller",
+  "clientId": null,
+  "createdAt": {
+    "$date": "2025-05-10T16:47:57.252Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T16:47:57.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f838d7775bb6afc5e27eb"
+  },
+  "username": "EE",
+  "email": "ee@gmail.com",
+  "password": "$2b$10$Nh4ymrOP0MKXKBu6pASpje4LlGQNUnbWGheprKQC0LtIxnCwDeBWm",
+  "role": "buyer",
+  "clientId": "722de0ce-09ca-4c66-ae41-00dde42116ff",
+  "createdAt": {
+    "$date": "2025-05-10T16:49:17.213Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T16:49:17.213Z"
+  },
+  "__v": 0
+}]

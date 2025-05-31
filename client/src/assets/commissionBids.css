@@ -1,0 +1,32 @@
+/* src/assets/commissionBids.css */
+
+.commission-bids-wrapper {
+    padding: 20px;
+  }
+  
+  .commission-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    margin-bottom: 20px;
+  }
+  
+  .commission-form select,
+  .commission-form input,
+  .commission-form button {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .commission-form button {
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .commission-form button:hover {
+    background-color: #1976d2;
+  }
+  

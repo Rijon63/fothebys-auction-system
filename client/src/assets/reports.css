@@ -1,0 +1,20 @@
+/* src/assets/reports.css */
+
+.reports-wrapper {
+    padding: 20px;
+  }
+  
+  .sale-card,
+  .client-card,
+  .auction-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    background-color: #fafafa;
+  }
+  
+  .sale-card strong {
+    color: #d32f2f;
+  }
+  

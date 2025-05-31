@@ -1,0 +1,262 @@
+[{
+  "_id": {
+    "$oid": "6815907a3da9d3ca30f7404a"
+  },
+  "auctionId": {
+    "$oid": "68158aef098ee82fbfa09dfb"
+  },
+  "lotNumber": "111111",
+  "title": "Paintingggggggggggggggg",
+  "artist": "Dd",
+  "yearProduced": 2025,
+  "subjectClassification": "landscape",
+  "description": "ZZZZZZZZZZZZ",
+  "auctionDate": {
+    "$date": "2025-05-04T00:00:00.000Z"
+  },
+  "startingPrice": 1000,
+  "estimatedPrice": 2503,
+  "category": "Painting",
+  "salePrice": 2000,
+  "buyerId": null,
+  "sellerId": {
+    "$oid": "680ab57bbb07561e3258716a"
+  },
+  "dimensions": {
+    "_id": {
+      "$oid": "6815907a3da9d3ca30f7404b"
+    },
+    "height": 10,
+    "length": 10
+  },
+  "weight": null,
+  "framed": true,
+  "mediumOrMaterial": "Red",
+  "image": "1746243706360-nature-color-painting.jpg",
+  "createdAt": {
+    "$date": "2025-05-03T03:41:46.391Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T03:48:18.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681592a81841651324bf7d42"
+  },
+  "auctionId": {
+    "$oid": "6815925f1841651324bf7d36"
+  },
+  "lotNumber": "22222",
+  "title": "lppppppppppppppppppp",
+  "artist": "Me",
+  "yearProduced": 2024,
+  "subjectClassification": "still life",
+  "description": "lpppppppppppp",
+  "auctionDate": {
+    "$date": "2025-05-13T00:00:00.000Z"
+  },
+  "startingPrice": 2000,
+  "estimatedPrice": 2500,
+  "category": "Drawing",
+  "salePrice": 2100,
+  "buyerId": null,
+  "sellerId": {
+    "$oid": "680ab57bbb07561e3258716a"
+  },
+  "dimensions": {
+    "_id": {
+      "$oid": "681592a81841651324bf7d43"
+    },
+    "height": 20,
+    "length": 20
+  },
+  "weight": null,
+  "framed": true,
+  "mediumOrMaterial": "Blue",
+  "image": "1746244264930.png",
+  "createdAt": {
+    "$date": "2025-05-03T03:51:04.952Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T03:51:04.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681594ccb443249bf123fe2a"
+  },
+  "auctionId": {
+    "$oid": "68159473b443249bf123fe1b"
+  },
+  "lotNumber": "11111111111111",
+  "title": "ooo",
+  "artist": "Me",
+  "yearProduced": 2000,
+  "subjectClassification": "abstract",
+  "description": "My My My My My ",
+  "auctionDate": {
+    "$date": "2025-05-03T00:00:00.000Z"
+  },
+  "startingPrice": 11,
+  "estimatedPrice": 15,
+  "category": "Painting",
+  "salePrice": 10,
+  "buyerId": null,
+  "sellerId": {
+    "$oid": "681572970640fb8980232e93"
+  },
+  "dimensions": {
+    "height": null,
+    "length": null,
+    "width": null,
+    "_id": {
+      "$oid": "681594ccb443249bf123fe2b"
+    }
+  },
+  "weight": null,
+  "framed": true,
+  "mediumOrMaterial": "Black",
+  "image": "1746244812263.jpeg",
+  "createdAt": {
+    "$date": "2025-05-03T04:00:12.332Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T04:00:12.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817875abc1ae0a4e3acb9e8"
+  },
+  "auctionId": {
+    "$oid": "68178706bc1ae0a4e3acb9dd"
+  },
+  "lotNumber": "1357",
+  "title": "Sub",
+  "artist": "meeeeeeeeeeee",
+  "yearProduced": 2020,
+  "subjectClassification": "portrait",
+  "description": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+  "auctionDate": {
+    "$date": "2025-05-04T00:00:00.000Z"
+  },
+  "startingPrice": 100,
+  "estimatedPrice": 200,
+  "category": "Carving",
+  "salePrice": 150,
+  "buyerId": null,
+  "sellerId": {
+    "$oid": "680ab57bbb07561e3258716a"
+  },
+  "dimensions": {
+    "height": null,
+    "length": null,
+    "width": null,
+    "_id": {
+      "$oid": "6817875abc1ae0a4e3acb9e9"
+    }
+  },
+  "weight": 10,
+  "framed": false,
+  "mediumOrMaterial": "Green",
+  "image": "1746372442808.jpg",
+  "createdAt": {
+    "$date": "2025-05-04T15:27:22.886Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T15:42:43.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f7349a564f433b75cf4f0"
+  },
+  "auctionId": {
+    "$oid": "681f72d8a564f433b75cf4db"
+  },
+  "lotNumber": "12345678",
+  "title": "Vintage Sculptures",
+  "artist": "Sam",
+  "yearProduced": 2025,
+  "subjectClassification": "portrait",
+  "description": "Vintage Sculptures",
+  "auctionDate": {
+    "$date": "2025-05-11T00:00:00.000Z"
+  },
+  "startingPrice": 100,
+  "estimatedPrice": 100,
+  "category": "Painting",
+  "salePrice": 1100,
+  "buyerId": null,
+  "sellerId": {
+    "$oid": "680ab536bb07561e32587167"
+  },
+  "dimensions": {
+    "height": null,
+    "length": null,
+    "width": null,
+    "_id": {
+      "$oid": "681f7349a564f433b75cf4f1"
+    }
+  },
+  "weight": null,
+  "framed": true,
+  "mediumOrMaterial": "Wodd",
+  "image": "1746891592957.jpg",
+  "createdAt": {
+    "$date": "2025-05-10T15:39:53.046Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T15:39:53.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681f760ea564f433b75cf569"
+  },
+  "auctionId": {
+    "$oid": "681f75c3a564f433b75cf55e"
+  },
+  "lotNumber": "23456781",
+  "title": "Paintings",
+  "artist": "Rijon",
+  "yearProduced": 2024,
+  "subjectClassification": "landscape",
+  "description": "Paintings",
+  "auctionDate": {
+    "$date": "2025-05-11T00:00:00.000Z"
+  },
+  "startingPrice": 120,
+  "estimatedPrice": 120,
+  "category": "Painting",
+  "salePrice": 120,
+  "buyerId": null,
+  "sellerId": {
+    "$oid": "680ab536bb07561e32587167"
+  },
+  "dimensions": {
+    "height": null,
+    "length": null,
+    "width": null,
+    "_id": {
+      "$oid": "681f760ea564f433b75cf56a"
+    }
+  },
+  "weight": null,
+  "framed": true,
+  "mediumOrMaterial": "Grenn",
+  "image": "1746892301947.jpg",
+  "createdAt": {
+    "$date": "2025-05-10T15:51:42.051Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-10T15:51:42.051Z"
+  },
+  "__v": 0
+}]

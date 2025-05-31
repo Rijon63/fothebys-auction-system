@@ -1,0 +1,96 @@
+.client-portal-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.client-portal-wrapper h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.error-message {
+  color: #d32f2f;
+  background-color: #ffebee;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.client-portal-wrapper section {
+  margin-bottom: 40px;
+}
+
+.client-portal-wrapper h3 {
+  font-size: 1.5rem;
+  color: #1976d2;
+  margin-bottom: 15px;
+}
+
+.auction-card,
+.lot-card,
+.bid-card {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 15px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.auction-card:hover,
+.lot-card:hover,
+.bid-card:hover {
+  transform: translateY(-5px);
+}
+
+.auction-card h4 {
+  font-size: 1.2rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.auction-card p,
+.lot-card p,
+.bid-card p {
+  margin: 8px 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+.auction-card p strong,
+.lot-card p strong,
+.bid-card p strong {
+  color: #333;
+}
+
+.lot-image {
+  max-width: 100px;
+  height: auto;
+  border-radius: 5px;
+}
+
+@media (max-width: 600px) {
+  .client-portal-wrapper {
+    padding: 15px;
+  }
+
+  .auction-card,
+  .lot-card,
+  .bid-card {
+    padding: 15px;
+  }
+
+  .client-portal-wrapper h2 {
+    font-size: 1.8rem;
+  }
+
+  .client-portal-wrapper h3 {
+    font-size: 1.3rem;
+  }
+}

@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "680d3de61393db63f944098d"
+  },
+  "clientId": {
+    "$oid": "680d3dc71393db63f9440980"
+  },
+  "lotId": {
+    "$oid": "680c12848ac6817ce2c8a8d9"
+  },
+  "maxBidAmount": 120000,
+  "createdAt": {
+    "$date": "2025-04-26T20:11:18.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680d3ee8eb04b9bad26df827"
+  },
+  "clientId": {
+    "$oid": "680d3dc71393db63f9440980"
+  },
+  "lotId": {
+    "$oid": "680c05c0ed6392af1d20957f"
+  },
+  "maxBidAmount": 100,
+  "createdAt": {
+    "$date": "2025-04-26T20:15:36.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680d3f39eb04b9bad26df851"
+  },
+  "clientId": {
+    "$oid": "680d3dc71393db63f9440980"
+  },
+  "lotId": {
+    "$oid": "680c12848ac6817ce2c8a8d9"
+  },
+  "maxBidAmount": 1200,
+  "createdAt": {
+    "$date": "2025-04-26T20:16:57.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680d45624bfee54a8ae72ee2"
+  },
+  "clientId": {
+    "$oid": "680d3dc71393db63f9440980"
+  },
+  "lotId": {
+    "$oid": "680c05c0ed6392af1d20957f"
+  },
+  "maxBidAmount": 12,
+  "createdAt": {
+    "$date": "2025-04-26T20:43:14.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680d476de8bb91af4751cf8d"
+  },
+  "clientId": {
+    "$oid": "680d4756e8bb91af4751cf80"
+  },
+  "lotId": {
+    "$oid": "680c12848ac6817ce2c8a8d9"
+  },
+  "maxBidAmount": 1300,
+  "createdAt": {
+    "$date": "2025-04-26T20:51:57.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680d49cee8bb91af4751cfb3"
+  },
+  "clientId": {
+    "$oid": "680d3dc71393db63f9440980"
+  },
+  "lotId": {
+    "$oid": "680c05c0ed6392af1d20957f"
+  },
+  "maxBidAmount": 1,
+  "createdAt": {
+    "$date": "2025-04-26T21:02:06.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680d4ddfe743b8ef5ffbb9ac"
+  },
+  "clientId": {
+    "$oid": "680d4b30e8bb91af4751cfed"
+  },
+  "lotId": {
+    "$oid": "680d4aa5e8bb91af4751cfcd"
+  },
+  "maxBidAmount": 10000000000,
+  "createdAt": {
+    "$date": "2025-04-26T21:19:27.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680eccad22f618cb079ed0c6"
+  },
+  "clientId": {
+    "$oid": "680ecc8c22f618cb079ed0b6"
+  },
+  "lotId": {
+    "$oid": "680d4aa5e8bb91af4751cfcd"
+  },
+  "maxBidAmount": 1000000,
+  "createdAt": {
+    "$date": "2025-04-28T00:32:45.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "680f1d4d39e0c7d4c190c019"
+  },
+  "clientId": {
+    "$oid": "680d3dc71393db63f9440980"
+  },
+  "lotId": {
+    "$oid": "680f18cbbb84b1a776206671"
+  },
+  "maxBidAmount": 1222,
+  "createdAt": {
+    "$date": "2025-04-28T06:16:45.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68140a4ac28b8350211fdcf1"
+  },
+  "clientId": {
+    "$oid": "68140920c28b8350211fdcca"
+  },
+  "lotId": {
+    "$oid": "680f18cbbb84b1a776206671"
+  },
+  "maxBidAmount": 20000000,
+  "createdAt": {
+    "$date": "2025-05-01T23:56:58.803Z"
+  },
+  "__v": 0
+}]
